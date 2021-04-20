@@ -3,7 +3,7 @@ Contributors: dcooney
 Plugin URI: https://connekthq.com/plugins/ajax-load-more/extensions/relevanssi/
 Donate link: https://connekthq.com/donate/
 Tags: ajax load more, search, relevanssi, ajax relevanssi, filter, ajax
-Requires at least: 3.6
+Requires at least: 5.0
 Tested up to: 5.7.0
 Stable tag: 1.0.2
 License: GPLv2 or later
