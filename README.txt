@@ -1,5 +1,6 @@
 === Ajax Load More for Relevanssi ===
-Contributors: edanzer, dcooney
+Contributors: dcooney, connekthq
+Author: Darren Cooney
 Plugin URI: https://connekthq.com/plugins/ajax-load-more/extensions/relevanssi/
 Donate link: https://connekthq.com/donate/
 Tags: ajax load more, search, relevanssi, filter, ajax search
@@ -58,8 +59,7 @@ In your Ajax Load More Repeater Template you can do the following using the [rel
 == Changelog ==
 
 = 1.0.3 - November 11, 2024 = 
-* UPDATE: Readme, contributors, WordPress tested version
-* NOTE: Plugin has new ownership
+* UPDATE: Readme, contributors, WordPress tested version 
 
 = 1.0.2 - April 17, 2021 =
 * UPDATE - Added support for highlighting the search term in Relevannsi post excerpts with Ajax Load More. See plugin FAQs for details.
