@@ -5,12 +5,12 @@ Plugin URI: https://connekthq.com/plugins/ajax-load-more/extensions/relevanssi/
 Donate link: https://connekthq.com/donate/
 Tags: ajax load more, search, relevanssi, filter, ajax search
 Requires at least: 5.0
-Tested up to: 6.7
-Stable tag: 1.0.3
+Tested up to: 6.8
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An Ajax Load More extension that adds compatibility with Relevanssi.
+Ajax Load More extension that adds compatibility with Relevanssi.
 
 == Description ==
 **Ajax Load More for Relevanssi** is a tiny extension that provides the functionality for returning [Relevanssi](https://en-ca.wordpress.org/plugins/relevanssi/) query results to [Ajax Load More](https://wordpress.org/plugins/ajax-load-more/) for infinite scrolling.
@@ -57,6 +57,9 @@ In your Ajax Load More Repeater Template you can do the following using the [rel
 5. Activate the plugin in the WP plugin dashboard.
 
 == Changelog ==
+
+= 1.0.4 - June 5, 2025 = 
+* UPDATE: Updated require plugin, readme and WP tested version.
 
 = 1.0.3 - November 11, 2024 = 
 * UPDATE: Readme, contributors, WordPress tested version 

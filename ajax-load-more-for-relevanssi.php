@@ -2,13 +2,14 @@
 /**
  * Plugin Name: Ajax Load More for Relevanssi
  * Plugin URI: http://connekthq.com/plugins/ajax-load-more/extensions/relevanssi/
- * Description: An Ajax Load More extension that adds compatibility with Relevanssi.
+ * Description: Ajax Load More extension that adds compatibility with Relevanssi.
  * Text Domain: ajax-load-more-for-relevanssi
  * Author: Darren Cooney
  * Author URI: https://connekthq.com
- * Version: 1.0.3
+ * Version: 1.0.4
  * License: GPL
  * Copyright: Connekt Media & Darren Cooney
+ * Requires Plugins: ajax-load-more
  *
  * @package ALM_Relevanssi
  */
