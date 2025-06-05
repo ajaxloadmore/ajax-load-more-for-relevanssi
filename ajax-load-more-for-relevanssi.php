@@ -31,7 +31,7 @@ if ( ! class_exists( 'ALM_Relevanssi' ) ) :
 		 * Construct Relevanssi class.
 		 */
 		public function __construct() {
-			add_filter( 'alm_relevanssi', [ &$this, 'alm_relevanssi_get_posts' ], 10, 1 );
+			add_filter( 'alm_relevanssi', [ $this, 'alm_relevanssi_get_posts' ], 10, 1 );
 		}
 
 		/**
