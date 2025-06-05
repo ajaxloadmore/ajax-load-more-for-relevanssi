@@ -59,7 +59,8 @@ In your Ajax Load More Repeater Template you can do the following using the [rel
 == Changelog ==
 
 = 1.0.4 - June 5, 2025 = 
-* UPDATE: Updated require plugin, readme and WP tested version.
+* NEW: Adding Ajax Load More as a required plugin.
+* UPDATE: Code cleanup, readme and WP tested version.
 
 = 1.0.3 - November 11, 2024 = 
 * UPDATE: Readme, contributors, WordPress tested version 
